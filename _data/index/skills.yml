@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: PHP, MySQL, Java, Javascript, HTML, CSS, Hyperledger Fabric
+percentage: 70, 70, 40, 30, 60, 50, 10

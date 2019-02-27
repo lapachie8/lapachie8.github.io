@@ -1,0 +1,11 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: SMK TELKOM PURWOKERTO
+  desc:
+    detail: Saya bersekolah di SMK TELKOM Purwokerto pada tahun 2017 - Sekarang
+  date:
+    detail: Apr. 2017, Purwokerto
+  job:
+    detail: Student
+  icon: fa-plus-square
